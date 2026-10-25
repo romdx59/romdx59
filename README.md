@@ -77,6 +77,20 @@ Je suis en train d'apprendre le développement logiciel et j'explore différente
 
 Je crée des petits projets personnels sur des thèmes que j'aime.
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Mes%20projets-6C3BFF?style=for-the-badge&logo=github&logoColor=white" alt="Mes projets"/>
+
+</div>
+
+> Au fil de mes projets, je découvre de nouvelles technologies, j'expérimente différentes idées et je développe mes compétences en programmation.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/D%C3%A9couvrir%20mes%20d%C3%A9p%C3%B4ts-6C3BFF?style=for-the-badge&logo=github&logoColor=white" alt="Découvrir mes dépôts"/>
+
+</div>
+
 ## `05` — Mes centres d'intérêt
 
 En dehors de la programmation, je m'intéresse à :
