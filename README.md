@@ -1,16 +1,29 @@
-## Hi there 👋
+# Salut, moi c'est [Ton prénom] !
 
-<!--
-**romdx59/romdx59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Développeur en formation | Passionné de programmation
 
-Here are some ideas to get you started:
+## À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Je me forme au développement d'applications et à la programmation.
+- J'apprends C#, Unity, HTML, CSS et JavaScript.
+- Je développe des projets personnels pour progresser.
+- Je m'intéresse à la K-pop, aux jeux vidéo et à la culture asiatique.
+- Mon objectif : devenir développeur et travailler en Asie.
+
+## 🛠️ Technologies
+
+- HTML / CSS
+- JavaScript
+- C#
+- Unity
+- Git / GitHub
+
+## 🚀 Mes objectifs
+
+- Créer des applications et des jeux vidéo.
+- Améliorer mes compétences en développement.
+- Construire un portfolio de projets.
+
+## 📫 Me retrouver
+
+- GitHub : [Mon profil](https://github.com/monpseudo)
