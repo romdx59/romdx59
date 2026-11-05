@@ -1,0 +1,31 @@
+
+name: Actualisation des statistiques GitHub
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v6
+
+      - name: Générer les statistiques GitHub
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/userstats.svg
+          custom-title: Statistiques GitHub de romdx59
+          colors: "#0D1117 #30363D #00E5FF #9D7BFF #C9D1D9"
+          locale: fr
+          max-languages: 10
+          category-order: general, repositories, contributions, languages
+          commit-and-push: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
