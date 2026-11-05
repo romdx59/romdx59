@@ -59,19 +59,24 @@ Je suis en train d'apprendre le développement logiciel et j'explore différente
 
 </div>
 
+
 ## `03` — Mes statistiques GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=romdx59&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7BFF&icon_color=00E5FF&text_color=C9D1D9&rank_icon=github" alt="Statistiques GitHub de romdx59"/>
+<!-- STATISTIQUES GITHUB -->
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=romdx59&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7BFF&icon_color=00E5FF&text_color=C9D1D9&rank_icon=github" alt="Statistiques GitHub de romdx59"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romdx59&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7BFF&text_color=C9D1D9" alt="Langages de programmation les plus utilisés"/>
+<!-- LANGAGES LES PLUS UTILISÉS -->
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=romdx59&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7BFF&text_color=C9D1D9" alt="Langages de programmation les plus utilisés"/>
 
+<!-- SÉRIE DE CONTRIBUTIONS -->
 <img src="https://streak-stats.demolab.com?user=romdx59&theme=tokyonight&hide_border=true&background=0D1117&ring=9D7BFF&fire=00E5FF&currStreakLabel=00E5FF" alt="Série de contributions GitHub"/>
 
 </div>
 
 <sub>Les statistiques sont récupérées automatiquement auprès de services externes. Les données affichées et leur disponibilité peuvent varier.</sub>
+
 
 ## `04` — Mes projets
 
