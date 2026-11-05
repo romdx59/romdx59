@@ -73,14 +73,16 @@ Je suis en train d'apprendre le développement logiciel et j'explore différente
 
 </div>
 
-<!-- SÉRIE DE CONTRIBUTIONS -->
+<!-- GRAPHIQUE D'ACTIVITÉ GITHUB -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=romdx59&theme=tokyonight&hide_border=true&background=0D1117&ring=9D7BFF&fire=00E5FF&currStreakLabel=00E5FF" alt="Série de contributions GitHub"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=romdx59&bg_color=0D1117&color=C9D1D9&line=9D7BFF&point=00E5FF&area=true&hide_border=true"
+    alt="Graphique d'activité GitHub de romdx59"
+    width="100%"
+  />
 </p>
 
 <sub>Les statistiques sont récupérées automatiquement auprès de services externes. Les données affichées et leur disponibilité peuvent varier.</sub>
-
-
 
 ## `04` — Mes projets
 
